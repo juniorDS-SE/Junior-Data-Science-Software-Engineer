@@ -1,5 +1,6 @@
 # Titanic - data science project 
 
+
 ### TASK1 - organizational instructions
  Create your own repository on Github or other public code versioning server. Use content of this project to create initial commit.
  
@@ -37,4 +38,7 @@ Unit test were written wherever it was nessesary for function to be checked. You
 ### TASK9 - prediction api
 In ..... folder you will find a code that is sharing my model via API. It is accessible by the HTTP protocol and is accepts and returns data in JSON format.
 
+
 ## Thanks for the opportunity!
+
+### Contact: damian.klimarczyk@gmail.com
