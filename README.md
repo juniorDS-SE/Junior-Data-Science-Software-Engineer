@@ -1,8 +1,5 @@
 # Titanic - data science project 
 
-## INTRODUCTION
-Tasks
-
 ### TASK1 - organizational instructions
  Create your own repository on Github or other public code versioning server. Use content of this project to create initial commit.
  
