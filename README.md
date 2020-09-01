@@ -1,5 +1,11 @@
 # Titanic - data science project 
 
+Before jumping in to code please get to know with 3 .txt files:
+    1 - docs/WhyNotebooks.txt
+    2 - docs/WhyPy.txt
+    3 - docs/WhyFunctionsPy.txt
+
+Because of lack of time I could only complete TASK4, TASK5, TASK6 (half of it) 
 
 ### TASK1 - organizational instructions
  Create your own repository on Github or other public code versioning server. Use content of this project to create initial commit.
@@ -24,19 +30,6 @@ File with my favourite joke added to the docs directory.
 I proposed better solution for feature engineering than the one given by you. You can find it in notebook directory.
 
 ### TASK5 - models
-I chose ....... rather than ..........
-
-### TASK6 - measures
-Justification (and comparison with your model) of why I have chosen this particular model you will find in a notebook folder.
-
-### TASK7 - docker
-In docs you will find the Dockerfile that will allow you to run my code in the container.
-
-### TASK8 - tests
-Unit test were written wherever it was nessesary for function to be checked. You can find them in src folder.
-
-### TASK9 - prediction api
-In ..... folder you will find a code that is sharing my model via API. It is accessible by the HTTP protocol and is accepts and returns data in JSON format.
 
 
 ## Thanks for the opportunity!
