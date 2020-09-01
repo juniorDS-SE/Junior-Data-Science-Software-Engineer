@@ -1,0 +1,3 @@
+As I mentioned in "WhyPy.txt" time is key here and I really wanted to complete all tasks. So, I have created some functions that I applied in feature engineering. 
+
+Basically, file "functions.py" consist in functions for feature engineering and unit tests (coludn't make it).
