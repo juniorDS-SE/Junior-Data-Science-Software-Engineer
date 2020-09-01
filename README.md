@@ -1,16 +1,11 @@
 # Titanic - data science project 
 
-## INTRODUCTION
-This is simple data science project designed to predict whether a given person would survive the Titanic crash.
+Before jumping in to code please get to know with 3 .txt files:
+    1 - docs/WhyNotebooks.txt
+    2 - docs/WhyPy.txt
+    3 - docs/WhyFunctionsPy.txt
 
-It is not a ready-made project, but a starting point for You. It has been written without respecting good practices.
-
-We have come up with 9 tasks for you related to this project. Try to do them all in best possible way. Do not quit if you fail to complete all tasks. We would like to see your project, even if it is only partially ready.
-
-Project is written in python, as it is the most usefull to work with us. However, if you are ninja in other language, and want to show off your skills, you can rewrite the code to other language.
-
-## TASKS
-Below you will find 9 tasks. Start from the first one. Further tasks can be done in any order you like and it is fine if you skip some of them.
+Because of lack of time I could only complete TASK4, TASK5, TASK6 (half of it) 
 
 ### TASK1 - organizational instructions
  Create your own repository on Github or other public code versioning server. Use content of this project to create initial commit.
@@ -22,7 +17,7 @@ Below you will find 9 tasks. Start from the first one. Further tasks can be done
 * At the end remember to share your repository with us.
 
 ### TASK2 - sense of humour
-Add a file with your favourite joke to the docs directory.
+File with my favourite joke added to the docs directory.
 
 ### TASK3 - good practices
 * Correct the code so it is easy to read, run and reuse.
@@ -32,21 +27,11 @@ Add a file with your favourite joke to the docs directory.
   * quality and performance of code -- remove or fix badly written code
 
 ### TASK4 - feature engineering
-Propose better solution for feature engineering than the one given by us.
+I proposed better solution for feature engineering than the one given by you. You can find it in notebook directory.
 
 ### TASK5 - models
-Propose other prediction models than the one proposed by us. 
 
-### TASK6 - measures
-After completing TASK5, justify why you have chosen this particular model. Compare it with the model proposed by us or with any other model choosen by you. If you haven't completed TASK5, write theoretically how can you compare two solutions.
 
-### TASK7 - docker
-Prepare a Dockerfile that will allow us to run your code in the container.
+## Thanks for the opportunity!
 
-### TASK8 - tests
-Write unit tests covering your code.
-
-### TASK9 - prediction api
-Prepare a code that will share your model via API. It should be accessible by the HTTP protocol and accept and return data in JSON format
-
-## GOOD LUCK!!!
+### Contact: damian.klimarczyk@gmail.com
